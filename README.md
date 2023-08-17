@@ -27,10 +27,8 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![ezgif com-video-to-gif](https://github.com/camila1014/web102_prework/assets/103790405/615af034-19a4-4e4c-be7d-72b12be5d978)
+
 
 ## Notes
 
